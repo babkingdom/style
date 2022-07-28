@@ -1,0 +1,66 @@
+.color-panel {
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    margin: 3px 0px;
+}
+
+.lav {
+    background-color: #DCD6F7;
+}
+
+.purple {
+    background-color: #A6B1E1;
+}
+
+.enlav {
+    background-color: #B4869F;
+}
+
+.dust {
+    background-color: #985F6F;
+}
+.independence {
+    background-color: #4E4C67;
+}
+
+* {
+    font-family: Raleway;
+    font-weight: 300;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.light {
+    font-weight: 300;
+}
+
+.light-italic {
+    font-weight: 300;
+    font-style: italic;
+}
+
+.medium {
+    font-weight: 500;
+}
+
+.opensans {
+    font-family: 'Open Sans';
+}
+
+h1 {
+    font-weight: 600;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+.colors, .fonts, .textstyles {
+    border: 1px solid black;
+    width: 70%;
+    margin:10px 50px;
+    padding: 20px 20px;
+}
